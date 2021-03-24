@@ -60,6 +60,7 @@ class Login extends Component {
                         see our Privacy Notice, our Cookies Notice and our Interest-Based Ads Notice.
                     </p>
                     <button className="login__registerButton" onClick={this.onSignup}>Create Your Amazon Account</button>
+                    <small>Fill up email and password and then press this button to Sign Up</small>
                 </div>
             </div>
         );

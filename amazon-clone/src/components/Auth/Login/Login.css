@@ -63,3 +63,8 @@
     border-color: darkgray;
     cursor: pointer;
   }
+
+  .login__container > small {
+    margin-top: 5px;
+    font-size: 10px;
+}

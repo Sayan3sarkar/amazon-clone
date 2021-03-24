@@ -1,5 +1,7 @@
 # Amazon Clone
 
+![Home Page](HomePage.png)
+
 ## Front End
 The front end has been made in ReactJS and is deployed [here](https://clone-3a936.web.app) using Firebase.
 <hr>
